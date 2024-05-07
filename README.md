@@ -1,1 +1,1 @@
-# -100DaysOfRTL-challenge
+My name is V Radha Dharani, and I am a passionate VLSI enthusiast. I have embarked on a challenging 100-day journey focused on RTL (Register Transfer Level) design and verification using Verilog. Throughout this journey, I predominantly utilize Xilinx Vivado software for RTL code simulation.This exciting endeavor allows me to deepen my expertise in the field and explore various aspects of VLSI design.
