@@ -1,0 +1,42 @@
+//-------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+Day:1 _"Basic logic gates"
+
+Day:2 _"ALU"
+
+Day:3 _"3_8 Decoder"
+
+Day:4 _"8_3 Encoder"
+
+Day:5 _"Multiplexer"
+
+Day:6 _"De-multiplexer"
+
+Day:7 _"Carry look ahead adder"
+
+Day:8 _"Carry select adder"
+
+Day:9 _"BCD Adder"
+
+Day:10_"4 bit Binary subtractor"
+
+Day:11_"Comparator"
+
+Day:12_"Array multiplier"
+
+Day:13_"Booth Multiplier"
+
+Day:14_"Converters"
+
+Day:15_"Divider"
+
+Day:16_"Tri state Buffer"
+
+Day:17_"Parity Generator and checker"
+
+Day:18_"Latches"
+
+Day:19_"Flip Flops"
+
+Day:20_"SISO Shift Register"
+
