@@ -40,3 +40,45 @@ Day:19_"Flip Flops"
 
 Day:20_"SISO Shift Register"
 
+Day:21_"SIPO Shift Register"
+
+Day:22_"PISO Shift Register"
+
+Day:23_"PIPO Shift Register"
+
+Day:24_'Universal Shift Register"
+
+Day:25_"Bi-Directional Shift Register"
+
+Day:26_"Priority Encoder"
+
+Day:27_"4-Bit Up Counter"
+
+Day:28_"4-Bit Down Counter"
+
+Day:29_"Ring Counter"
+
+Day:30_"Jhonson Counter"
+
+Day:31_"Asynchronous Counter"
+
+Day:32_"Barrel Shifter"
+
+Day:23_"Linear Feedback Shift Register"
+
+Day:34_"Clock Generator"
+
+Day:35_"PWM Generator"
+
+Day:36_"FSM sequence generator"
+
+Day:37_"FSM Sequence Detector"
+
+Day:38_"2 Flip-Flop Synchroniser"
+
+Day:39_"Clock Gating"
+
+Day:40_"SRAM"
+
+
+
